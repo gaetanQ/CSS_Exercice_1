@@ -5,6 +5,9 @@ table, td, tr, th {
     .gras{
         font-weight: bold;
     }
-    .italique{
-        font-style: italic 
+    .italic{
+        font-style: italic; 
+       }
+       .titleBold{
+           font-weight: bold;
        }
